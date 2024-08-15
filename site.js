@@ -51,7 +51,7 @@ const infArray = [
   {
     title: "Nordic tea",
     content: `&#9749; Nordic tea<br>
-    &#127850; чай в виде мороженного!<br>
+    &#127850; чай в виде мороженого!<br>
     &#x1f4b8; 185 &#8381;<br>`,
     href: "https://ppr-ek.ru/menu/napitki/chay-klyukva-i-badyan/",
     src: "Menu_img/Menu_puncts/tea.png",
